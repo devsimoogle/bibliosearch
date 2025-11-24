@@ -174,7 +174,7 @@ export const ResultsView: React.FC<ResultsViewProps> = ({
 
                             {/* Minimal Footer */}
                             <div className="px-5 py-2 bg-gray-50/50 border-t border-gray-50 flex justify-end">
-                                <span className="text-[9px] font-bold text-gray-300 uppercase tracking-widest">Gemini 2.0 Flash</span>
+                                <span className="text-[9px] font-bold text-gray-300 uppercase tracking-widest">Imoogle 4.0</span>
                             </div>
                         </div>
 
